@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+05:08:16	33147/33147	---M-Z	200	added ('OK')	text/html	etag:%22817b-5ce554fd-7015106bad35b004;gz%22	https://askbootstrap.com/preview/osahan-eat/	E:/mov/New%20folder/osahan-eat-online-food-ordering-website/askbootstrap.com/preview/osahan-eat/index.html	(from )
+05:08:16	185/185	---M--	200	added ('OK')	text/plain	etag:%22b9-5ba20d59-bfcd720507f29cd3;;;%22	https://askbootstrap.com/robots.txt		(from )
